@@ -1,0 +1,2 @@
+overall	Pos-Cam-Cam_accuracy	Pos-Obj-Obj_accuracy	Pos-Reg-Reg_accuracy	Pos-Cam-Obj_accuracy	Pos-Obj-Reg_accuracy	Pos-Cam-Reg_accuracy	Attr-Meas_accuracy	Attr-Appr_accuracy	Motion-Cam_accuracy	Motion-Obj_accuracy	MSR_accuracy
+25.0000	22.5806	23.4043	27.1605	23.2558	27.0588	28.9157	26.5625	24.2424	17.5676	23.6842	27.2727

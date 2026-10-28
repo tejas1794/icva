@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+checkpoints/
+outputs/
+analysis/results/
+wandb/
+.DS_Store
